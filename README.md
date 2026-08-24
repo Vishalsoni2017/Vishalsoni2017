@@ -28,7 +28,7 @@ I'm a **DevOps Engineer** with **2+ years of experience** in cloud engineering a
 - 🌱 Currently deepening skills in **Helm**, **Terraform**, and **cloud security**
 - 👯 Open to collaborating on **multi-cloud** and **open-source DevOps tooling** projects
 - 🤔 Looking for guidance on **cost optimization** and **distributed systems resilience**
-- 💬 Ask me about **CI/CD, AWS/Azure/GCP, Docker & Kubernetes**
+- 💬 Ask me about **CI/CD, AWS/Azure/GCP, Docker &amp; Kubernetes**
 - ⚡ Fun fact: when not scripting infra, I'm reading about space exploration or binge-watching sci-fi
 
 <br/>
@@ -52,7 +52,7 @@ I'm a **DevOps Engineer** with **2+ years of experience** in cloud engineering a
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalsoni2017&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Vishalsoni2017&amp;theme=tokyonight&amp;hide_border=true" />
 
 <br/>
 
@@ -86,7 +86,7 @@ I'm a **DevOps Engineer** with **2+ years of experience** in cloud engineering a
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vishalsoni2017&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Vishalsoni2017&amp;color=58A6FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 

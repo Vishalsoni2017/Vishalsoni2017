@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vishal%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Infrastructure%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/vishal-soni">
+<a href="https://www.linkedin.com/in/vishal-soni-900b30133/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:vishalsoni@example.com">
+<a href="mailto:vs.soni199@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Vishalsoni2017">
